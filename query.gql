@@ -1,0 +1,86 @@
+query RecentSetsForPlayer($Player1Id: ID!, $perPage: Int!){ #me player id: 1361665, UV player id: 2214216, sean player id: 178361
+  player(id: $Player1Id){
+    sets(
+      page: 1
+      perPage: $perPage
+    ){
+      nodes{
+        slots{
+          entrant{
+            id
+            participants{
+              player{
+                id
+                gamerTag
+              }
+            }
+          }
+        }
+        id
+        winnerId
+        event{
+          videogame{
+            id
+          }
+          tournament{
+            name
+          }
+        }
+        fullRoundText
+        displayScore
+
+      }
+    }
+  }
+}
+
+query RecentSetsForPlayer2($Player2Id: ID!, $perPage: Int!){
+  player(id: $Player2Id){
+    sets(
+      page: 1
+      perPage: $perPage
+    ){
+      nodes{
+        id
+        displayScore
+      }
+    }
+  }
+}
+
+query PlayersByTournamentsByOwner($perPage: Int!, $ownerId: ID!) {
+  tournaments(query: {
+      perPage: $perPage
+      filter: {
+        ownerId: $ownerId
+      }
+    }) {
+    nodes {
+      events{
+        videogame{
+          id
+        }
+        entrants{
+          nodes{
+            participants{
+              player{
+                id
+                gamerTag
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+query UserBySlug($slug: String){
+  user(slug: $slug){
+    name
+    id
+    player{
+      gamerTag
+    }
+  }
+}
