@@ -34,15 +34,52 @@ query RecentSetsForPlayer($Player1Id: ID!, $perPage: Int!){ #me player id: 13616
   }
 }
 
-query RecentSetsForPlayer2($Player2Id: ID!, $perPage: Int!){
-  player(id: $Player2Id){
+query EventsByPlayer($PlayerId: ID!){
+  player(id: $PlayerId){
+    user{
+      events(query: {
+        perPage: 500
+        filter: {
+          videogameId: [43868]
+        }
+      }){
+        nodes{
+          id
+        }
+      }
+    }
+  }
+}
+
+query PlayerSetsInEvent($eventId: ID!, $playerId: ID!){
+
+  player(id: $playerId){
     sets(
-      page: 1
-      perPage: $perPage
+      perPage: 100
+      filters: {
+        eventIds: [$eventId]
+      }
     ){
       nodes{
-        id
+        event{
+          tournament{
+            name
+          }
+        }
+        slots{
+          entrant{
+            id
+            participants{
+              player{
+                id
+                gamerTag
+              }
+            }
+          }
+        }
+        winnerId
         displayScore
+        fullRoundText
       }
     }
   }

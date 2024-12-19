@@ -7,12 +7,12 @@
             "slots": [
               {
                 "entrant": {
-                  "id": 18593882,
+                  "id": 18360848,
                   "participants": [
                     {
                       "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
                       }
                     }
                   ]
@@ -20,91 +20,7 @@
               },
               {
                 "entrant": {
-                  "id": 18631161,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 3637392,
-                        "gamerTag": "EnterNewName"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 83150112,
-            "winnerId": 18631161,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "Zenith Active Frames #39"
-              }
-            },
-            "fullRoundText": "Losers Round 4",
-            "displayScore": "JumboTurbo 1 - EnterNewName 2"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 18628363,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 2231372,
-                        "gamerTag": "Garlic Bread"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 18593882,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 83150052,
-            "winnerId": 18628363,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "Zenith Active Frames #39"
-              }
-            },
-            "fullRoundText": "Winners Quarter-Final",
-            "displayScore": "STG | Garlic Bread 2 - JumboTurbo 0"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 18593882,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 18482983,
+                  "id": 18365043,
                   "participants": [
                     {
                       "player": {
@@ -116,29 +32,29 @@
                 }
               }
             ],
-            "id": 83150048,
-            "winnerId": 18593882,
+            "id": 82021651,
+            "winnerId": 18360848,
             "event": {
               "videogame": {
-                "id": 43868
+                "id": 23
               },
               "tournament": {
-                "name": "Zenith Active Frames #39"
+                "name": "Meaty Mashup 25 ft MKX"
               }
             },
-            "fullRoundText": "Winners Round 2",
-            "displayScore": "JumboTurbo 2 - J-smash 1"
+            "fullRoundText": "Round 2",
+            "displayScore": "FBG | SD_Kato 3 - J-smash 0"
           },
           {
             "slots": [
               {
                 "entrant": {
-                  "id": 18345971,
+                  "id": 18371208,
                   "participants": [
                     {
                       "player": {
-                        "id": 178361,
-                        "gamerTag": "Seanwhy"
+                        "id": 1720396,
+                        "gamerTag": "SKODEN"
                       }
                     }
                   ]
@@ -146,41 +62,41 @@
               },
               {
                 "entrant": {
-                  "id": 18382313,
+                  "id": 18360848,
                   "participants": [
                     {
                       "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
                       }
                     }
                   ]
                 }
               }
             ],
-            "id": 82105598,
-            "winnerId": 18345971,
+            "id": 82021656,
+            "winnerId": 18360848,
             "event": {
               "videogame": {
-                "id": 43868
+                "id": 23
               },
               "tournament": {
-                "name": "TTF Street Fighter 6 Big Kahuna 1.4- 11/9"
+                "name": "Meaty Mashup 25 ft MKX"
               }
             },
-            "fullRoundText": "Losers Round 3",
-            "displayScore": "Seanwhy 2 - JumboTurbo 1"
+            "fullRoundText": "Round 4",
+            "displayScore": "DQ"
           },
           {
             "slots": [
               {
                 "entrant": {
-                  "id": 18382313,
+                  "id": 18360848,
                   "participants": [
                     {
                       "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
                       }
                     }
                   ]
@@ -188,41 +104,209 @@
               },
               {
                 "entrant": {
-                  "id": 18373364,
+                  "id": 18372346,
                   "participants": [
                     {
                       "player": {
-                        "id": 1015147,
-                        "gamerTag": "J-smash"
+                        "id": 3046274,
+                        "gamerTag": "Mai"
                       }
                     }
                   ]
                 }
               }
             ],
-            "id": 82105594,
-            "winnerId": 18382313,
+            "id": 82021647,
+            "winnerId": 18360848,
+            "event": {
+              "videogame": {
+                "id": 23
+              },
+              "tournament": {
+                "name": "Meaty Mashup 25 ft MKX"
+              }
+            },
+            "fullRoundText": "Round 1",
+            "displayScore": "FBG | SD_Kato 3 - Zero-G | Mai 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 18360685,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 3481352,
+                        "gamerTag": "Foonk"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 18360848,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 82021658,
+            "winnerId": 18360848,
+            "event": {
+              "videogame": {
+                "id": 23
+              },
+              "tournament": {
+                "name": "Meaty Mashup 25 ft MKX"
+              }
+            },
+            "fullRoundText": "Round 5",
+            "displayScore": "Foonk 1 - FBG | SD_Kato 3"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 18372356,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 2836760,
+                        "gamerTag": "Dapielova"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 18360848,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 82021654,
+            "winnerId": 18360848,
+            "event": {
+              "videogame": {
+                "id": 23
+              },
+              "tournament": {
+                "name": "Meaty Mashup 25 ft MKX"
+              }
+            },
+            "fullRoundText": "Round 3",
+            "displayScore": "Dapielova 0 - FBG | SD_Kato 3"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 18302997,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 2836760,
+                        "gamerTag": "Dapielova"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 18301000,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 81744791,
+            "winnerId": 18302997,
             "event": {
               "videogame": {
                 "id": 43868
               },
               "tournament": {
-                "name": "TTF Street Fighter 6 Big Kahuna 1.4- 11/9"
+                "name": "Meaty Mashup 24 Ft MKX"
+              }
+            },
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "Dapielova 2 - FBG | SD_Kato 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 18301000,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 18279596,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 3203052,
+                        "gamerTag": "holewizard"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 81744789,
+            "winnerId": 18301000,
+            "event": {
+              "videogame": {
+                "id": 43868
+              },
+              "tournament": {
+                "name": "Meaty Mashup 24 Ft MKX"
               }
             },
             "fullRoundText": "Losers Round 2",
-            "displayScore": "JumboTurbo 2 - J-smash 1"
+            "displayScore": "FBG | SD_Kato 2 - holewizard 1"
           },
           {
             "slots": [
               {
                 "entrant": {
-                  "id": 18382313,
+                  "id": 18301001,
                   "participants": [
                     {
                       "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
                       }
                     }
                   ]
@@ -230,7 +314,91 @@
               },
               {
                 "entrant": {
-                  "id": 18372258,
+                  "id": 18301976,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 3046274,
+                        "gamerTag": "Mai"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 81744915,
+            "winnerId": 18301001,
+            "event": {
+              "videogame": {
+                "id": 23
+              },
+              "tournament": {
+                "name": "Meaty Mashup 24 Ft MKX"
+              }
+            },
+            "fullRoundText": "Round 1",
+            "displayScore": "FBG | SD_Kato 3 - Zero-G | Mai 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 18302998,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 2836760,
+                        "gamerTag": "Dapielova"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 18301001,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 81744917,
+            "winnerId": 18301001,
+            "event": {
+              "videogame": {
+                "id": 23
+              },
+              "tournament": {
+                "name": "Meaty Mashup 24 Ft MKX"
+              }
+            },
+            "fullRoundText": "Round 2",
+            "displayScore": "Dapielova 0 - FBG | SD_Kato 3"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 18301000,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 18292926,
                   "participants": [
                     {
                       "player": {
@@ -242,29 +410,29 @@
                 }
               }
             ],
-            "id": 82105588,
-            "winnerId": 18382313,
+            "id": 81744786,
+            "winnerId": 18301000,
             "event": {
               "videogame": {
                 "id": 43868
               },
               "tournament": {
-                "name": "TTF Street Fighter 6 Big Kahuna 1.4- 11/9"
+                "name": "Meaty Mashup 24 Ft MKX"
               }
             },
             "fullRoundText": "Losers Round 1",
-            "displayScore": "JumboTurbo 2 - Pizza\u03c0 0"
+            "displayScore": "FBG | SD_Kato 2 - Pizza\u03c0 0"
           },
           {
             "slots": [
               {
                 "entrant": {
-                  "id": 18344899,
+                  "id": 18299264,
                   "participants": [
                     {
                       "player": {
-                        "id": 148460,
-                        "gamerTag": "SD| Tempest"
+                        "id": 3481352,
+                        "gamerTag": "Foonk"
                       }
                     }
                   ]
@@ -272,41 +440,41 @@
               },
               {
                 "entrant": {
-                  "id": 18382313,
+                  "id": 18301001,
                   "participants": [
                     {
                       "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
                       }
                     }
                   ]
                 }
               }
             ],
-            "id": 82105530,
-            "winnerId": 18344899,
+            "id": 81744918,
+            "winnerId": 18301001,
             "event": {
               "videogame": {
-                "id": 43868
+                "id": 23
               },
               "tournament": {
-                "name": "TTF Street Fighter 6 Big Kahuna 1.4- 11/9"
+                "name": "Meaty Mashup 24 Ft MKX"
               }
             },
-            "fullRoundText": "Winners Round 2",
-            "displayScore": "SD| Tempest 2 - JumboTurbo 0"
+            "fullRoundText": "Round 3",
+            "displayScore": "Foonk 0 - FBG | SD_Kato 3"
           },
           {
             "slots": [
               {
                 "entrant": {
-                  "id": 18382313,
+                  "id": 18295911,
                   "participants": [
                     {
                       "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
+                        "id": 1015147,
+                        "gamerTag": "J-smash"
                       }
                     }
                   ]
@@ -314,41 +482,41 @@
               },
               {
                 "entrant": {
-                  "id": 18379509,
+                  "id": 18301000,
                   "participants": [
                     {
                       "player": {
-                        "id": 322852,
-                        "gamerTag": "J_Flo"
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
                       }
                     }
                   ]
                 }
               }
             ],
-            "id": 82105518,
-            "winnerId": 18382313,
+            "id": 81744756,
+            "winnerId": 18295911,
             "event": {
               "videogame": {
                 "id": 43868
               },
               "tournament": {
-                "name": "TTF Street Fighter 6 Big Kahuna 1.4- 11/9"
+                "name": "Meaty Mashup 24 Ft MKX"
               }
             },
-            "fullRoundText": "Winners Round 1",
-            "displayScore": "JumboTurbo 2 - TTF | J_Flo 0"
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "J-smash 2 - FBG | SD_Kato 0"
           },
           {
             "slots": [
               {
                 "entrant": {
-                  "id": 18295838,
+                  "id": 15920349,
                   "participants": [
                     {
                       "player": {
-                        "id": 2516547,
-                        "gamerTag": "TLKashima"
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
                       }
                     }
                   ]
@@ -356,41 +524,41 @@
               },
               {
                 "entrant": {
-                  "id": 18270683,
+                  "id": 15589809,
                   "participants": [
                     {
                       "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
+                        "id": 1120521,
+                        "gamerTag": "Sethiepoo"
                       }
                     }
                   ]
                 }
               }
             ],
-            "id": 81808859,
-            "winnerId": 18295838,
+            "id": 77324308,
+            "winnerId": 15589809,
             "event": {
               "videogame": {
-                "id": 43868
+                "id": 49783
               },
               "tournament": {
-                "name": "Zenith Active Frames #38"
+                "name": "Evo 2024"
               }
             },
-            "fullRoundText": "Losers Round 1",
-            "displayScore": "TLKashima 2 - JumboTurbo 1"
+            "fullRoundText": "Losers Round 4",
+            "displayScore": "Sethiepoo W - FBG | SD_Kato L"
           },
           {
             "slots": [
               {
                 "entrant": {
-                  "id": 18270683,
+                  "id": 15579261,
                   "participants": [
                     {
                       "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
+                        "id": 272394,
+                        "gamerTag": "jei"
                       }
                     }
                   ]
@@ -398,41 +566,83 @@
               },
               {
                 "entrant": {
-                  "id": 18311208,
+                  "id": 15920349,
                   "participants": [
                     {
                       "player": {
-                        "id": 1484931,
-                        "gamerTag": "Bean"
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
                       }
                     }
                   ]
                 }
               }
             ],
-            "id": 81805619,
-            "winnerId": 18270683,
+            "id": 77324305,
+            "winnerId": 15920349,
             "event": {
               "videogame": {
-                "id": 43868
+                "id": 49783
               },
               "tournament": {
-                "name": "Zenith Active Frames #38"
+                "name": "Evo 2024"
+              }
+            },
+            "fullRoundText": "Losers Round 3",
+            "displayScore": "FBG | SD_Kato W - jei L"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 15934024,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 2813201,
+                        "gamerTag": "buffgirls"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 15920349,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 77324301,
+            "winnerId": 15920349,
+            "event": {
+              "videogame": {
+                "id": 49783
+              },
+              "tournament": {
+                "name": "Evo 2024"
               }
             },
             "fullRoundText": "Losers Round 2",
-            "displayScore": "JumboTurbo 2 - Bean 0"
+            "displayScore": "buffgirls 1 - FBG | SD_Kato 2"
           },
           {
             "slots": [
               {
                 "entrant": {
-                  "id": 18270683,
+                  "id": 17000322,
                   "participants": [
                     {
                       "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
+                        "id": 544077,
+                        "gamerTag": "DDRMuchacho"
                       }
                     }
                   ]
@@ -440,288 +650,1128 @@
               },
               {
                 "entrant": {
-                  "id": 18274804,
+                  "id": 15920349,
                   "participants": [
                     {
                       "player": {
-                        "id": 2231372,
-                        "gamerTag": "Garlic Bread"
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
                       }
                     }
                   ]
                 }
               }
             ],
-            "id": 81805593,
-            "winnerId": 18274804,
+            "id": 77324236,
+            "winnerId": 17000322,
             "event": {
               "videogame": {
-                "id": 43868
+                "id": 49783
               },
               "tournament": {
-                "name": "Zenith Active Frames #38"
-              }
-            },
-            "fullRoundText": "Winners Quarter-Final",
-            "displayScore": "JumboTurbo 1 - STG | Garlic Bread 2"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 18270683,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 18310511,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 4309724,
-                        "gamerTag": "Skullzer"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 81805588,
-            "winnerId": 18270683,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "Zenith Active Frames #38"
-              }
-            },
-            "fullRoundText": "Winners Round 1",
-            "displayScore": "JumboTurbo 2 - Skullzer 0"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 18280687,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 379400,
-                        "gamerTag": "Spirit"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 18282228,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 81667718,
-            "winnerId": 18280687,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "TNS Street Fighter 6 #71"
-              }
-            },
-            "fullRoundText": "Losers Round 1",
-            "displayScore": "IPG | Spirit 3 - JumboTurbo 1"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 18279225,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 215370,
-                        "gamerTag": "801 Strider"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 18282228,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 81666730,
-            "winnerId": 18279225,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "TNS Street Fighter 6 #71"
-              }
-            },
-            "fullRoundText": "Winners Semi-Final",
-            "displayScore": "801 Strider 3 - JumboTurbo 1"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 18282228,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 18279226,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 3564235,
-                        "gamerTag": "MessatsuInMemphis"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 81666708,
-            "winnerId": 18282228,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "TNS Street Fighter 6 #71"
-              }
-            },
-            "fullRoundText": "Winners Quarter-Final",
-            "displayScore": "JumboTurbo 3 - 4o4 | MessatsuInMemphis 2"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 18281015,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 19736,
-                        "gamerTag": "UntitledSix"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 18282228,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 81666650,
-            "winnerId": 18282228,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "TNS Street Fighter 6 #71"
-              }
-            },
-            "fullRoundText": "Winners Round 3",
-            "displayScore": "UntitledSix 0 - JumboTurbo 3"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 18279075,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 3587304,
-                        "gamerTag": "Fem!Shep"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 18282228,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 81666561,
-            "winnerId": 18282228,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "TNS Street Fighter 6 #71"
+                "name": "Evo 2024"
               }
             },
             "fullRoundText": "Winners Round 2",
-            "displayScore": "Fem!Shep 1 - JumboTurbo 3"
+            "displayScore": "DDRMuchacho 2 - FBG | SD_Kato 0"
           },
           {
             "slots": [
               {
                 "entrant": {
-                  "id": 18225154,
+                  "id": 15920348,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 16806248,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 545414,
+                        "gamerTag": "Zap"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 77302020,
+            "winnerId": 16806248,
+            "event": {
+              "videogame": {
+                "id": 43868
+              },
+              "tournament": {
+                "name": "Evo 2024"
+              }
+            },
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "FBG | SD_Kato 1 - KHEPRI | Zap 2"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 16335733,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 385095,
+                        "gamerTag": "Nemo"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 15920348,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 77301956,
+            "winnerId": 16335733,
+            "event": {
+              "videogame": {
+                "id": 43868
+              },
+              "tournament": {
+                "name": "Evo 2024"
+              }
+            },
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "SS\u718a\u672c | Nemo 2 - FBG | SD_Kato 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 15920348,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 16188707,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 3477094,
+                        "gamerTag": "Etelmik"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 77301953,
+            "winnerId": 15920348,
+            "event": {
+              "videogame": {
+                "id": 43868
+              },
+              "tournament": {
+                "name": "Evo 2024"
+              }
+            },
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "FBG | SD_Kato 2 - Etelmik 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 16705804,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 212494,
+                        "gamerTag": "DoctorDarling"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 15920348,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 77301946,
+            "winnerId": 15920348,
+            "event": {
+              "videogame": {
+                "id": 43868
+              },
+              "tournament": {
+                "name": "Evo 2024"
+              }
+            },
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "DoctorDarling 1 - FBG | SD_Kato 2"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 15920348,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 15776719,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 3910434,
+                        "gamerTag": "roketts"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 77301933,
+            "winnerId": 15920348,
+            "event": {
+              "videogame": {
+                "id": 43868
+              },
+              "tournament": {
+                "name": "Evo 2024"
+              }
+            },
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "FBG | SD_Kato 2 - roketts 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 15920347,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 16958577,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1269315,
+                        "gamerTag": "Plus"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 77272859,
+            "winnerId": 16958577,
+            "event": {
+              "videogame": {
+                "id": 48599
+              },
+              "tournament": {
+                "name": "Evo 2024"
+              }
+            },
+            "fullRoundText": "Losers Round 4",
+            "displayScore": "FBG | SD_Kato 2 - SYN | Plus 3"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 16121041,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1730108,
+                        "gamerTag": "Vyletz"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 15920347,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 77272855,
+            "winnerId": 15920347,
+            "event": {
+              "videogame": {
+                "id": 48599
+              },
+              "tournament": {
+                "name": "Evo 2024"
+              }
+            },
+            "fullRoundText": "Losers Round 3",
+            "displayScore": "STG | Vyletz 1 - FBG | SD_Kato 3"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 15920347,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 15634873,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 2198327,
+                        "gamerTag": "NotVeraGood"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 77272851,
+            "winnerId": 15920347,
+            "event": {
+              "videogame": {
+                "id": 48599
+              },
+              "tournament": {
+                "name": "Evo 2024"
+              }
+            },
+            "fullRoundText": "Losers Round 2",
+            "displayScore": "FBG | SD_Kato 3 - NotVeraGood 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 15920347,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 15582287,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 3728848,
+                        "gamerTag": "Legend"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 77272843,
+            "winnerId": 15920347,
+            "event": {
+              "videogame": {
+                "id": 48599
+              },
+              "tournament": {
+                "name": "Evo 2024"
+              }
+            },
+            "fullRoundText": "Losers Round 1",
+            "displayScore": "FBG | SD_Kato 3 - FR | Legend 1"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 15920347,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 15605378,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 3878614,
+                        "gamerTag": "KoleZlaw"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 77259382,
+            "winnerId": 15605378,
+            "event": {
+              "videogame": {
+                "id": 48599
+              },
+              "tournament": {
+                "name": "Evo 2024"
+              }
+            },
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "FBG | SD_Kato 1 - RiF | KoleZlaw 3"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 15766796,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 60460,
+                        "gamerTag": "XPACK360"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 15920347,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 77259379,
+            "winnerId": 15920347,
+            "event": {
+              "videogame": {
+                "id": 48599
+              },
+              "tournament": {
+                "name": "Evo 2024"
+              }
+            },
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "2215458 | XPACK360 0 - FBG | SD_Kato 3"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 15920347,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 16768804,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 4054071,
+                        "gamerTag": "Ralph"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 77259374,
+            "winnerId": 15920347,
+            "event": {
+              "videogame": {
+                "id": 48599
+              },
+              "tournament": {
+                "name": "Evo 2024"
+              }
+            },
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "FBG | SD_Kato 3 - Ralph 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 14582480,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 14580815,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 467827,
+                        "gamerTag": "con"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 66474999,
+            "winnerId": 14582480,
+            "event": {
+              "videogame": {
+                "id": 48599
+              },
+              "tournament": {
+                "name": "Mortal Kombat 1 release tournament (PC)"
+              }
+            },
+            "fullRoundText": "Grand Final",
+            "displayScore": "FBG | SD_Kato 3 - OE | ArmaKu 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 14582480,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 14580815,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 467827,
+                        "gamerTag": "con"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 66474998,
+            "winnerId": 14582480,
+            "event": {
+              "videogame": {
+                "id": 48599
+              },
+              "tournament": {
+                "name": "Mortal Kombat 1 release tournament (PC)"
+              }
+            },
+            "fullRoundText": "Winners Final",
+            "displayScore": "FBG | SD_Kato 3 - OE | ArmaKu 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 14582480,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 14590332,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1185901,
+                        "gamerTag": "Peakcone"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 66474996,
+            "winnerId": 14582480,
+            "event": {
+              "videogame": {
+                "id": 48599
+              },
+              "tournament": {
+                "name": "Mortal Kombat 1 release tournament (PC)"
+              }
+            },
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "FBG | SD_Kato 3 - Peakcone 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 14311170,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 14223429,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1218723,
+                        "gamerTag": "Method"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 65297422,
+            "winnerId": 14223429,
+            "event": {
+              "videogame": {
+                "id": 48599
+              },
+              "tournament": {
+                "name": "Nightmare Series MK1 Pre Release!"
+              }
+            },
+            "fullRoundText": "Losers Round 8",
+            "displayScore": "FBG | SD_Kato 0 - Method 3"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 14311170,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 14223314,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1439697,
+                        "gamerTag": "SRyu PainFZ"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 65297169,
+            "winnerId": 14223314,
+            "event": {
+              "videogame": {
+                "id": 48599
+              },
+              "tournament": {
+                "name": "Nightmare Series MK1 Pre Release!"
+              }
+            },
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "FBG | SD_Kato 1 - TLR | SRyu PainFZ 3"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 14311170,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 14229825,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1178565,
+                        "gamerTag": "XxDijinFoxX"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 65297164,
+            "winnerId": 14311170,
+            "event": {
+              "videogame": {
+                "id": 48599
+              },
+              "tournament": {
+                "name": "Nightmare Series MK1 Pre Release!"
+              }
+            },
+            "fullRoundText": "Winners Round 4",
+            "displayScore": "FBG | SD_Kato 3 - XxDijinFoxX 1"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 14240352,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1271501,
+                        "gamerTag": "Reiko Takahashi"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 14311170,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 65297154,
+            "winnerId": 14311170,
+            "event": {
+              "videogame": {
+                "id": 48599
+              },
+              "tournament": {
+                "name": "Nightmare Series MK1 Pre Release!"
+              }
+            },
+            "fullRoundText": "Winners Round 3",
+            "displayScore": "FBG | SD_Kato W - Reiko Takahashi L"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 14311170,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 14228890,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1880453,
+                        "gamerTag": "Hunter"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 65297135,
+            "winnerId": 14311170,
+            "event": {
+              "videogame": {
+                "id": 48599
+              },
+              "tournament": {
+                "name": "Nightmare Series MK1 Pre Release!"
+              }
+            },
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "FBG | SD_Kato 3 - Hunter 1"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 14228239,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1097173,
+                        "gamerTag": "watashiNOVA"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 14311170,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 65297096,
+            "winnerId": 14311170,
+            "event": {
+              "videogame": {
+                "id": 48599
+              },
+              "tournament": {
+                "name": "Nightmare Series MK1 Pre Release!"
+              }
+            },
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "watashiNOVA 1 - FBG | SD_Kato 3"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 13613962,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1361665,
+                        "gamerTag": "endabio"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 13626184,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 62388868,
+            "winnerId": 13613962,
+            "event": {
+              "videogame": {
+                "id": 43868
+              },
+              "tournament": {
+                "name": "Synchronicity #31"
+              }
+            },
+            "fullRoundText": "Losers Round 5",
+            "displayScore": "TF | endabio 2 - FBG | SD_Kato 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 13626184,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 13623531,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 3404651,
+                        "gamerTag": "saunterrrr"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 62388866,
+            "winnerId": 13626184,
+            "event": {
+              "videogame": {
+                "id": 43868
+              },
+              "tournament": {
+                "name": "Synchronicity #31"
+              }
+            },
+            "fullRoundText": "Losers Round 4",
+            "displayScore": "FBG | SD_Kato 2 - saunterrrr 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 13625464,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 2342019,
+                        "gamerTag": "Drizzt"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 13626184,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 62388804,
+            "winnerId": 13625464,
+            "event": {
+              "videogame": {
+                "id": 43868
+              },
+              "tournament": {
+                "name": "Synchronicity #31"
+              }
+            },
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "Drizzt 2 - FBG | SD_Kato 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 13626184,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 13626303,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 3512733,
+                        "gamerTag": "phantom"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 62388799,
+            "winnerId": 13626184,
+            "event": {
+              "videogame": {
+                "id": 43868
+              },
+              "tournament": {
+                "name": "Synchronicity #31"
+              }
+            },
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "FBG | SD_Kato 2 - phantom 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 13626184,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 13625444,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 3046274,
+                        "gamerTag": "Mai"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 62388788,
+            "winnerId": 13626184,
+            "event": {
+              "videogame": {
+                "id": 43868
+              },
+              "tournament": {
+                "name": "Synchronicity #31"
+              }
+            },
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "FBG | SD_Kato 2 - Mai 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 13563203,
                   "participants": [
                     {
                       "player": {
@@ -734,41 +1784,41 @@
               },
               {
                 "entrant": {
-                  "id": 18233686,
+                  "id": 13565200,
                   "participants": [
                     {
                       "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
                       }
                     }
                   ]
                 }
               }
             ],
-            "id": 81458872,
-            "winnerId": 18225154,
+            "id": 62158037,
+            "winnerId": 13563203,
             "event": {
               "videogame": {
                 "id": 43868
               },
               "tournament": {
-                "name": "Sidetrack Vol.2"
+                "name": "Synchronicity #30"
               }
             },
-            "fullRoundText": "Losers Round 3",
-            "displayScore": "Seanwhy 1 - JumboTurbo 0"
+            "fullRoundText": "Losers Semi-Final",
+            "displayScore": "Seanwhy 2 - FBG | SD_Kato 1"
           },
           {
             "slots": [
               {
                 "entrant": {
-                  "id": 18233686,
+                  "id": 13565200,
                   "participants": [
                     {
                       "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
                       }
                     }
                   ]
@@ -776,167 +1826,41 @@
               },
               {
                 "entrant": {
-                  "id": 18235752,
+                  "id": 13563558,
                   "participants": [
                     {
                       "player": {
-                        "id": 190794,
-                        "gamerTag": "TTF_Delux"
+                        "id": 738695,
+                        "gamerTag": "Dogshit"
                       }
                     }
                   ]
                 }
               }
             ],
-            "id": 81458867,
-            "winnerId": 18233686,
+            "id": 62158036,
+            "winnerId": 13565200,
             "event": {
               "videogame": {
                 "id": 43868
               },
               "tournament": {
-                "name": "Sidetrack Vol.2"
-              }
-            },
-            "fullRoundText": "Losers Round 2",
-            "displayScore": "JumboTurbo 1 - TTF_Delux 0"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 18226338,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 501079,
-                        "gamerTag": "BlkWolverine"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 18233686,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 81458807,
-            "winnerId": 18226338,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "Sidetrack Vol.2"
-              }
-            },
-            "fullRoundText": "Winners Round 2",
-            "displayScore": "BlkWolverine 2 - JumboTurbo 0"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 18233686,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 18231241,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 225267,
-                        "gamerTag": "ACreampieSurprise"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 81458794,
-            "winnerId": 18233686,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "Sidetrack Vol.2"
-              }
-            },
-            "fullRoundText": "Winners Round 1",
-            "displayScore": "JumboTurbo 2 - Charlie Hustle 0"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 17835293,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 415304,
-                        "gamerTag": "Gauln"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 18093399,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 80946828,
-            "winnerId": 17835293,
-            "event": {
-              "videogame": {
-                "id": 36963
-              },
-              "tournament": {
-                "name": "TTF Street Fighter 6 Big Kahuna 1.3 & King of Fighters XV- 10/12"
+                "name": "Synchronicity #30"
               }
             },
             "fullRoundText": "Losers Quarter-Final",
-            "displayScore": "Gauln 2 - JumboTurbo 1"
+            "displayScore": "FBG | SD_Kato 2 - Dogshit 1"
           },
           {
             "slots": [
               {
                 "entrant": {
-                  "id": 18093399,
+                  "id": 13565200,
                   "participants": [
                     {
                       "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
                       }
                     }
                   ]
@@ -944,1183 +1868,7 @@
               },
               {
                 "entrant": {
-                  "id": 18087799,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 1580944,
-                        "gamerTag": "Hinako Apologist"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 80946826,
-            "winnerId": 18093399,
-            "event": {
-              "videogame": {
-                "id": 36963
-              },
-              "tournament": {
-                "name": "TTF Street Fighter 6 Big Kahuna 1.3 & King of Fighters XV- 10/12"
-              }
-            },
-            "fullRoundText": "Losers Round 1",
-            "displayScore": "JumboTurbo 2 - Hinako Apologist 0"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 18097258,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 225758,
-                        "gamerTag": "Cory Bell"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 18093399,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 80946810,
-            "winnerId": 18097258,
-            "event": {
-              "videogame": {
-                "id": 36963
-              },
-              "tournament": {
-                "name": "TTF Street Fighter 6 Big Kahuna 1.3 & King of Fighters XV- 10/12"
-              }
-            },
-            "fullRoundText": "Winners Quarter-Final",
-            "displayScore": "Victrix | Cory Bell 2 - JumboTurbo 1"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 18093398,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 18100558,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 765926,
-                        "gamerTag": "PotemkinBusTours"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 80945963,
-            "winnerId": 18100558,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "TTF Street Fighter 6 Big Kahuna 1.3 & King of Fighters XV- 10/12"
-              }
-            },
-            "fullRoundText": "Losers Round 2",
-            "displayScore": "PotemkinBusTours W - JumboTurbo L"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 18064758,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 60825,
-                        "gamerTag": "SD Pnoy"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 18093398,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 80945931,
-            "winnerId": 18064758,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "TTF Street Fighter 6 Big Kahuna 1.3 & King of Fighters XV- 10/12"
-              }
-            },
-            "fullRoundText": "Winners Quarter-Final",
-            "displayScore": "SD Pnoy W - JumboTurbo L"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 17835292,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 415304,
-                        "gamerTag": "Gauln"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 18093398,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 80945924,
-            "winnerId": 18093398,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "TTF Street Fighter 6 Big Kahuna 1.3 & King of Fighters XV- 10/12"
-              }
-            },
-            "fullRoundText": "Winners Round 1",
-            "displayScore": "JumboTurbo W - Gauln L"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 18097606,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 763103,
-                        "gamerTag": "Kazuki"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 18093472,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 80935481,
-            "winnerId": 18097606,
-            "event": {
-              "videogame": {
-                "id": 22406
-              },
-              "tournament": {
-                "name": "Zenith Active Frames #37"
-              }
-            },
-            "fullRoundText": "Losers Round 4",
-            "displayScore": "Kazuki 2 - JumboTurbo 0"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 18093472,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 18099010,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 2197645,
-                        "gamerTag": "ChloroPhil"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 80935478,
-            "winnerId": 18093472,
-            "event": {
-              "videogame": {
-                "id": 22406
-              },
-              "tournament": {
-                "name": "Zenith Active Frames #37"
-              }
-            },
-            "fullRoundText": "Losers Round 3",
-            "displayScore": "JumboTurbo 2 - MES | ChloroPhil 1"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 17879902,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 792344,
-                        "gamerTag": "Wyvern"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 18093472,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 80935416,
-            "winnerId": 17879902,
-            "event": {
-              "videogame": {
-                "id": 22406
-              },
-              "tournament": {
-                "name": "Zenith Active Frames #37"
-              }
-            },
-            "fullRoundText": "Winners Quarter-Final",
-            "displayScore": "Wyvern 2 - JumboTurbo 0"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 17887543,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 554607,
-                        "gamerTag": "DJ Shoko"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 18093472,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 80935409,
-            "winnerId": 18093472,
-            "event": {
-              "videogame": {
-                "id": 22406
-              },
-              "tournament": {
-                "name": "Zenith Active Frames #37"
-              }
-            },
-            "fullRoundText": "Winners Round 2",
-            "displayScore": "BMS | DJ Shoko 0 - JumboTurbo 2"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 15578529,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 2391808,
-                        "gamerTag": "Epilly"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 15748714,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 77325721,
-            "winnerId": 15578529,
-            "event": {
-              "videogame": {
-                "id": 49783
-              },
-              "tournament": {
-                "name": "Evo 2024"
-              }
-            },
-            "fullRoundText": "Losers Round 4",
-            "displayScore": "Epilly W - JumboTurbo L"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 16008046,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 3951249,
-                        "gamerTag": "Antonachio"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 15748714,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 77325718,
-            "winnerId": 15748714,
-            "event": {
-              "videogame": {
-                "id": 49783
-              },
-              "tournament": {
-                "name": "Evo 2024"
-              }
-            },
-            "fullRoundText": "Losers Round 3",
-            "displayScore": "Antonachio 0 - JumboTurbo 2"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 16912969,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 355448,
-                        "gamerTag": "UniversalWolf21"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 15748714,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 77325714,
-            "winnerId": 15748714,
-            "event": {
-              "videogame": {
-                "id": 49783
-              },
-              "tournament": {
-                "name": "Evo 2024"
-              }
-            },
-            "fullRoundText": "Losers Round 2",
-            "displayScore": "YOGAN | UniversalWolf21 0 - JumboTurbo 2"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 15902950,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 1295478,
-                        "gamerTag": "NoobToPro"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 15748714,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 77325652,
-            "winnerId": 15902950,
-            "event": {
-              "videogame": {
-                "id": 49783
-              },
-              "tournament": {
-                "name": "Evo 2024"
-              }
-            },
-            "fullRoundText": "Winners Round 2",
-            "displayScore": "NoobToPro 2 - JumboTurbo 0"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 15748714,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 16324493,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 3990522,
-                        "gamerTag": "Neniv"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 77325641,
-            "winnerId": 15748714,
-            "event": {
-              "videogame": {
-                "id": 49783
-              },
-              "tournament": {
-                "name": "Evo 2024"
-              }
-            },
-            "fullRoundText": "Winners Round 1",
-            "displayScore": "JumboTurbo 2 - Neniv 0"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 15748713,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 16707328,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 3422730,
-                        "gamerTag": "notredding"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 77284147,
-            "winnerId": 16707328,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "Evo 2024"
-              }
-            },
-            "fullRoundText": "Losers Round 3",
-            "displayScore": "notredding W - JumboTurbo L"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 15748713,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 16826699,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 4118118,
-                        "gamerTag": "Mac"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 77284085,
-            "winnerId": 16826699,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "Evo 2024"
-              }
-            },
-            "fullRoundText": "Winners Quarter-Final",
-            "displayScore": "JumboTurbo 0 - TR | Mac 2"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 15748713,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 16571189,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 2453144,
-                        "gamerTag": "Krum"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 77284079,
-            "winnerId": 15748713,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "Evo 2024"
-              }
-            },
-            "fullRoundText": "Winners Round 2",
-            "displayScore": "JumboTurbo 2 - Krum 0"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 16683969,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 2790943,
-                        "gamerTag": "fabricio"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 15748711,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 77260222,
-            "winnerId": 16683969,
-            "event": {
-              "videogame": {
-                "id": 36963
-              },
-              "tournament": {
-                "name": "Evo 2024"
-              }
-            },
-            "fullRoundText": "Losers Round 1",
-            "displayScore": "mxli | fabricio 2 - JumboTurbo 0"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 16133981,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 413312,
-                        "gamerTag": "Playa-V"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 15748711,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 77243901,
-            "winnerId": 15748711,
-            "event": {
-              "videogame": {
-                "id": 36963
-              },
-              "tournament": {
-                "name": "Evo 2024"
-              }
-            },
-            "fullRoundText": "Losers Round 4",
-            "displayScore": "GR | Playa-V 0 - JumboTurbo 2"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 15857559,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 272257,
-                        "gamerTag": "Caderyn"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 15748711,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 77243898,
-            "winnerId": 15748711,
-            "event": {
-              "videogame": {
-                "id": 36963
-              },
-              "tournament": {
-                "name": "Evo 2024"
-              }
-            },
-            "fullRoundText": "Losers Round 3",
-            "displayScore": "Caderyn 0 - JumboTurbo 2"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 15748711,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 15576835,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 340427,
-                        "gamerTag": "Sim"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 77243894,
-            "winnerId": 15748711,
-            "event": {
-              "videogame": {
-                "id": 36963
-              },
-              "tournament": {
-                "name": "Evo 2024"
-              }
-            },
-            "fullRoundText": "Losers Round 2",
-            "displayScore": "JumboTurbo 2 - Sim 0"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 15748711,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 16707788,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 493024,
-                        "gamerTag": "KCFUSION"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 77243887,
-            "winnerId": 15748711,
-            "event": {
-              "videogame": {
-                "id": 36963
-              },
-              "tournament": {
-                "name": "Evo 2024"
-              }
-            },
-            "fullRoundText": "Losers Round 1",
-            "displayScore": "JumboTurbo 2 - KCFUSION 0"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 16788805,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 3624794,
-                        "gamerTag": "azulitodust41"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 15748711,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 77243833,
-            "winnerId": 16788805,
-            "event": {
-              "videogame": {
-                "id": 36963
-              },
-              "tournament": {
-                "name": "Evo 2024"
-              }
-            },
-            "fullRoundText": "Winners Round 2",
-            "displayScore": "TxC | azulitodust41 3 - JumboTurbo 1"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 15748711,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 16895935,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 13852,
-                        "gamerTag": "SaltyParis"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 77243823,
-            "winnerId": 15748711,
-            "event": {
-              "videogame": {
-                "id": 36963
-              },
-              "tournament": {
-                "name": "Evo 2024"
-              }
-            },
-            "fullRoundText": "Winners Round 1",
-            "displayScore": "JumboTurbo 2 - SaltyParis 0"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 17159270,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 17146494,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 765926,
-                        "gamerTag": "PotemkinBusTours"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 77066882,
-            "winnerId": 17146494,
-            "event": {
-              "videogame": {
-                "id": 36963
-              },
-              "tournament": {
-                "name": "TTF Street Fighter 6, Tekken 8, King of Fighters XV and 3rd Strike- 7/13"
-              }
-            },
-            "fullRoundText": "Losers Quarter-Final",
-            "displayScore": "JumboTurbo 1 - PotemkinBusTours 2"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 17151950,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 146694,
-                        "gamerTag": "Alexis Pinto"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 17159270,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 77066851,
-            "winnerId": 17151950,
-            "event": {
-              "videogame": {
-                "id": 36963
-              },
-              "tournament": {
-                "name": "TTF Street Fighter 6, Tekken 8, King of Fighters XV and 3rd Strike- 7/13"
-              }
-            },
-            "fullRoundText": "Winners Semi-Final",
-            "displayScore": "Alexis Pinto 2 - JumboTurbo 0"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 17159270,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 17177166,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 374432,
-                        "gamerTag": "Watts"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 77066848,
-            "winnerId": 17159270,
-            "event": {
-              "videogame": {
-                "id": 36963
-              },
-              "tournament": {
-                "name": "TTF Street Fighter 6, Tekken 8, King of Fighters XV and 3rd Strike- 7/13"
-              }
-            },
-            "fullRoundText": "Winners Quarter-Final",
-            "displayScore": "JumboTurbo 2 - Watts 0"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 17159269,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 17146493,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 765926,
-                        "gamerTag": "PotemkinBusTours"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 77060366,
-            "winnerId": 17146493,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "TTF Street Fighter 6, Tekken 8, King of Fighters XV and 3rd Strike- 7/13"
-              }
-            },
-            "fullRoundText": "Losers Round 1",
-            "displayScore": "PotemkinBusTours W - JumboTurbo L"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 17159269,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 17129331,
+                  "id": 13562844,
                   "participants": [
                     {
                       "player": {
@@ -2132,528 +1880,163 @@
                 }
               }
             ],
-            "id": 77060306,
-            "winnerId": 17129331,
+            "id": 62157972,
+            "winnerId": 13562844,
             "event": {
               "videogame": {
                 "id": 43868
               },
               "tournament": {
-                "name": "TTF Street Fighter 6, Tekken 8, King of Fighters XV and 3rd Strike- 7/13"
-              }
-            },
-            "fullRoundText": "Winners Round 1",
-            "displayScore": "Drizzt W - JumboTurbo L"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 16925162,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 148460,
-                        "gamerTag": "SD| Tempest"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 16809964,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 76019112,
-            "winnerId": 16925162,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "Zenith Active Frames #33"
-              }
-            },
-            "fullRoundText": "Losers Round 3",
-            "displayScore": "SD| Tempest 2 - JumboTurbo 1"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 16809965,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 16927496,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 765926,
-                        "gamerTag": "PotemkinBusTours"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 76015597,
-            "winnerId": 16927496,
-            "event": {
-              "videogame": {
-                "id": 36963
-              },
-              "tournament": {
-                "name": "Zenith Active Frames #33"
-              }
-            },
-            "fullRoundText": "Losers Round 3",
-            "displayScore": "JumboTurbo 1 - PotemkinBusTours 2"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 16927293,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 2790573,
-                        "gamerTag": "BS Koopatj"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 16809964,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 76019109,
-            "winnerId": 16809964,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "Zenith Active Frames #33"
-              }
-            },
-            "fullRoundText": "Losers Round 2",
-            "displayScore": "BS Koopatj 0 - JumboTurbo 2"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 16809965,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 16823373,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 1235454,
-                        "gamerTag": "Drake"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 76015594,
-            "winnerId": 16809965,
-            "event": {
-              "videogame": {
-                "id": 36963
-              },
-              "tournament": {
-                "name": "Zenith Active Frames #33"
-              }
-            },
-            "fullRoundText": "Losers Round 2",
-            "displayScore": "JumboTurbo 2 - Drake 1"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 16929148,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 375063,
-                        "gamerTag": "Corn?"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 16809964,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 76019105,
-            "winnerId": 16809964,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "Zenith Active Frames #33"
-              }
-            },
-            "fullRoundText": "Losers Round 1",
-            "displayScore": "HoQ | Corn? 0 - JumboTurbo 2"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 16799382,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 415304,
-                        "gamerTag": "Gauln"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 16809965,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 76015564,
-            "winnerId": 16799382,
-            "event": {
-              "videogame": {
-                "id": 36963
-              },
-              "tournament": {
-                "name": "Zenith Active Frames #33"
-              }
-            },
-            "fullRoundText": "Winners Quarter-Final",
-            "displayScore": "Gauln 2 - JumboTurbo 0"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 16809965,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 16929181,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 1473986,
-                        "gamerTag": "Mayo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 76015558,
-            "winnerId": 16809965,
-            "event": {
-              "videogame": {
-                "id": 36963
-              },
-              "tournament": {
-                "name": "Zenith Active Frames #33"
-              }
-            },
-            "fullRoundText": "Winners Round 1",
-            "displayScore": "JumboTurbo 2 - Mayo 0"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 16809964,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 16926145,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 295592,
-                        "gamerTag": "Urbanaut"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 76011824,
-            "winnerId": 16809964,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "Zenith Active Frames #33"
-              }
-            },
-            "fullRoundText": "Losers Round 3",
-            "displayScore": "JumboTurbo 2 - SD | Urbanaut 0"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 16809964,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 16800641,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 1015147,
-                        "gamerTag": "J-smash"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 76011764,
-            "winnerId": 16800641,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "Zenith Active Frames #33"
-              }
-            },
-            "fullRoundText": "Winners Quarter-Final",
-            "displayScore": "JumboTurbo 1 - J-smash 2"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 16809964,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 16927914,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 1496290,
-                        "gamerTag": "F-MEGA"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 76011759,
-            "winnerId": 16809964,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "Zenith Active Frames #33"
-              }
-            },
-            "fullRoundText": "Winners Round 2",
-            "displayScore": "JumboTurbo 2 - F-MEGA 1"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 16591100,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 16583181,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 1361665,
-                        "gamerTag": "endabio"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 74602140,
-            "winnerId": 16583181,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "Zenith Active Frames #32"
-              }
-            },
-            "fullRoundText": "Losers Quarter-Final",
-            "displayScore": "JumboTurbo 1 - endabio 2"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 16591100,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 16592764,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 3578649,
-                        "gamerTag": "Leizy"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 74602126,
-            "winnerId": 16592764,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "Zenith Active Frames #32"
+                "name": "Synchronicity #30"
               }
             },
             "fullRoundText": "Winners Semi-Final",
-            "displayScore": "JumboTurbo 1 - Leizy 2"
+            "displayScore": "FBG | SD_Kato 1 - Drizzt 2"
           },
           {
             "slots": [
               {
                 "entrant": {
-                  "id": 16591861,
+                  "id": 13565200,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 13563203,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 178361,
+                        "gamerTag": "Seanwhy"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 62157968,
+            "winnerId": 13565200,
+            "event": {
+              "videogame": {
+                "id": 43868
+              },
+              "tournament": {
+                "name": "Synchronicity #30"
+              }
+            },
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "FBG | SD_Kato 2 - Seanwhy 1"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 13565200,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 13565700,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 53131,
+                        "gamerTag": "Iggy"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 62157960,
+            "winnerId": 13565200,
+            "event": {
+              "videogame": {
+                "id": 43868
+              },
+              "tournament": {
+                "name": "Synchronicity #30"
+              }
+            },
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "FBG | SD_Kato 2 - DHB | IggyNieves 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 13383500,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 13382354,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 595994,
+                        "gamerTag": "C-ckyButtons"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 61401650,
+            "winnerId": 13382354,
+            "event": {
+              "videogame": {
+                "id": 43868
+              },
+              "tournament": {
+                "name": "Zenith Active Frames #21"
+              }
+            },
+            "fullRoundText": "Losers Round 5",
+            "displayScore": "FBG | SD_Kato 1 - C-ckyButtons 2"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 13383500,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 13359774,
                   "participants": [
                     {
                       "player": {
@@ -2663,44 +2046,31 @@
                     }
                   ]
                 }
-              },
-              {
-                "entrant": {
-                  "id": 16591100,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
               }
             ],
-            "id": 74598839,
-            "winnerId": 16591100,
+            "id": 61401527,
+            "winnerId": 13359774,
             "event": {
               "videogame": {
                 "id": 43868
               },
               "tournament": {
-                "name": "Zenith Active Frames #32"
+                "name": "Zenith Active Frames #21"
               }
             },
             "fullRoundText": "Winners Quarter-Final",
-            "displayScore": "SD| Tempest 0 - JumboTurbo 2"
+            "displayScore": "FBG | SD_Kato 1 - SD| Tempest 2"
           },
           {
             "slots": [
               {
                 "entrant": {
-                  "id": 16591100,
+                  "id": 13388502,
                   "participants": [
                     {
                       "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
+                        "id": 3333542,
+                        "gamerTag": "ABunchOfPixels"
                       }
                     }
                   ]
@@ -2708,125 +2078,41 @@
               },
               {
                 "entrant": {
-                  "id": 16534019,
+                  "id": 13383500,
                   "participants": [
                     {
                       "player": {
-                        "id": 3741849,
-                        "gamerTag": "Ethan"
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
                       }
                     }
                   ]
                 }
               }
             ],
-            "id": 74598834,
-            "winnerId": 16591100,
+            "id": 61401522,
+            "winnerId": 13383500,
             "event": {
               "videogame": {
                 "id": 43868
               },
               "tournament": {
-                "name": "Zenith Active Frames #32"
-              }
-            },
-            "fullRoundText": "Winners Round 2",
-            "displayScore": "JumboTurbo 2 - Ethan 0"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 16564904,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 16565116,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 3475944,
-                        "gamerTag": "Zombieguts13"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 74454246,
-            "winnerId": 16565116,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "TNS Street Fighter 6 #46 (Crossplay)"
-              }
-            },
-            "fullRoundText": "Losers Round 3",
-            "displayScore": "JumboTurbo 0 - Zombieguts13 3"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 16561821,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 4018142,
-                        "gamerTag": "BOW!"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 16564904,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 74453998,
-            "winnerId": 16561821,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "TNS Street Fighter 6 #46 (Crossplay)"
+                "name": "Zenith Active Frames #21"
               }
             },
             "fullRoundText": "Winners Round 3",
-            "displayScore": "BOW! 3 - JumboTurbo 1"
+            "displayScore": "ABunchOfPixels 0 - FBG | SD_Kato 2"
           },
           {
             "slots": [
               {
                 "entrant": {
-                  "id": 16564904,
+                  "id": 13365236,
                   "participants": [
                     {
                       "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
+                        "id": 646715,
+                        "gamerTag": "Arctic"
                       }
                     }
                   ]
@@ -2834,41 +2120,41 @@
               },
               {
                 "entrant": {
-                  "id": 16564340,
+                  "id": 13383500,
                   "participants": [
                     {
                       "player": {
-                        "id": 2989950,
-                        "gamerTag": "Flye"
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
                       }
                     }
                   ]
                 }
               }
             ],
-            "id": 74453975,
-            "winnerId": 16564904,
+            "id": 61401513,
+            "winnerId": 13383500,
             "event": {
               "videogame": {
                 "id": 43868
               },
               "tournament": {
-                "name": "TNS Street Fighter 6 #46 (Crossplay)"
+                "name": "Zenith Active Frames #21"
               }
             },
             "fullRoundText": "Winners Round 2",
-            "displayScore": "JumboTurbo 3 - Flye 2"
+            "displayScore": "Arctic 1 - FBG | SD_Kato 2"
           },
           {
             "slots": [
               {
                 "entrant": {
-                  "id": 16495866,
+                  "id": 13381600,
                   "participants": [
                     {
                       "player": {
-                        "id": 67428,
-                        "gamerTag": "MOTHMAN"
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
                       }
                     }
                   ]
@@ -2876,41 +2162,41 @@
               },
               {
                 "entrant": {
-                  "id": 16494320,
+                  "id": 13381879,
                   "participants": [
                     {
                       "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
+                        "id": 735395,
+                        "gamerTag": "CaptainNaughtyAmerica"
                       }
                     }
                   ]
                 }
               }
             ],
-            "id": 74162004,
-            "winnerId": 16495866,
+            "id": 61338435,
+            "winnerId": 13381600,
             "event": {
               "videogame": {
                 "id": 43868
               },
               "tournament": {
-                "name": "TNS Street Fighter 6 #45 (Crossplay)"
+                "name": "Synchronicity #27"
               }
             },
-            "fullRoundText": "Losers Round 4",
-            "displayScore": "MOTHMAN 3 - JumboTurbo 0"
+            "fullRoundText": "Grand Final",
+            "displayScore": "FBG | SD_Kato 3 - CaptainNaughtyAmerica 0"
           },
           {
             "slots": [
               {
                 "entrant": {
-                  "id": 16494320,
+                  "id": 13381879,
                   "participants": [
                     {
                       "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
+                        "id": 735395,
+                        "gamerTag": "CaptainNaughtyAmerica"
                       }
                     }
                   ]
@@ -2918,41 +2204,41 @@
               },
               {
                 "entrant": {
-                  "id": 16491873,
+                  "id": 13381600,
                   "participants": [
                     {
                       "player": {
-                        "id": 273117,
-                        "gamerTag": "Shogun"
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
                       }
                     }
                   ]
                 }
               }
             ],
-            "id": 74161981,
-            "winnerId": 16494320,
+            "id": 61338434,
+            "winnerId": 13381600,
             "event": {
               "videogame": {
                 "id": 43868
               },
               "tournament": {
-                "name": "TNS Street Fighter 6 #45 (Crossplay)"
+                "name": "Synchronicity #27"
               }
             },
-            "fullRoundText": "Losers Round 3",
-            "displayScore": "JumboTurbo 3 - Shogun 0"
+            "fullRoundText": "Winners Final",
+            "displayScore": "CaptainNaughtyAmerica 0 - FBG | SD_Kato 3"
           },
           {
             "slots": [
               {
                 "entrant": {
-                  "id": 16494320,
+                  "id": 13381600,
                   "participants": [
                     {
                       "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
                       }
                     }
                   ]
@@ -2960,41 +2246,125 @@
               },
               {
                 "entrant": {
-                  "id": 16495243,
+                  "id": 13381601,
                   "participants": [
                     {
                       "player": {
-                        "id": 3761831,
-                        "gamerTag": "Isaias"
+                        "id": 1471373,
+                        "gamerTag": "Uberchair"
                       }
                     }
                   ]
                 }
               }
             ],
-            "id": 74161955,
-            "winnerId": 16494320,
+            "id": 61338433,
+            "winnerId": 13381600,
             "event": {
               "videogame": {
                 "id": 43868
               },
               "tournament": {
-                "name": "TNS Street Fighter 6 #45 (Crossplay)"
+                "name": "Synchronicity #27"
+              }
+            },
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "FBG | SD_Kato 2 - PQL | Uberchair 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 13381600,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 13381895,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 738695,
+                        "gamerTag": "Dogshit"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 61338430,
+            "winnerId": 13381600,
+            "event": {
+              "videogame": {
+                "id": 43868
+              },
+              "tournament": {
+                "name": "Synchronicity #27"
+              }
+            },
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "FBG | SD_Kato 2 - Dogshit 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 6014858,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 724418,
+                        "gamerTag": "TheOneAsian"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 6014790,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 32034612,
+            "winnerId": 6014858,
+            "event": {
+              "videogame": {
+                "id": 17
+              },
+              "tournament": {
+                "name": "WNF2020 Online Edition Episode 25"
               }
             },
             "fullRoundText": "Losers Round 2",
-            "displayScore": "JumboTurbo 3 - M-RD | Isaias 0"
+            "displayScore": "TheOneAsian 2 - FBG | SD_Kato 0"
           },
           {
             "slots": [
               {
                 "entrant": {
-                  "id": 16494320,
+                  "id": 6014090,
                   "participants": [
                     {
                       "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
+                        "id": 1293477,
+                        "gamerTag": "Hoe"
                       }
                     }
                   ]
@@ -3002,83 +2372,41 @@
               },
               {
                 "entrant": {
-                  "id": 16494668,
+                  "id": 6014790,
                   "participants": [
                     {
                       "player": {
-                        "id": 389107,
-                        "gamerTag": "Zealum"
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
                       }
                     }
                   ]
                 }
               }
             ],
-            "id": 74161583,
-            "winnerId": 16494668,
+            "id": 32034479,
+            "winnerId": 6014090,
             "event": {
               "videogame": {
-                "id": 43868
+                "id": 17
               },
               "tournament": {
-                "name": "TNS Street Fighter 6 #45 (Crossplay)"
+                "name": "WNF2020 Online Edition Episode 25"
               }
             },
             "fullRoundText": "Winners Round 2",
-            "displayScore": "JumboTurbo 1 - Zealum 3"
-          },
-          {
-            "slots": [
-              {
-                "entrant": {
-                  "id": 16494977,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 141330,
-                        "gamerTag": "StaticGorilla"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "entrant": {
-                  "id": 16494320,
-                  "participants": [
-                    {
-                      "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
-                      }
-                    }
-                  ]
-                }
-              }
-            ],
-            "id": 74161520,
-            "winnerId": 16494320,
-            "event": {
-              "videogame": {
-                "id": 43868
-              },
-              "tournament": {
-                "name": "TNS Street Fighter 6 #45 (Crossplay)"
-              }
-            },
-            "fullRoundText": "Winners Round 1",
             "displayScore": "DQ"
           },
           {
             "slots": [
               {
                 "entrant": {
-                  "id": 16376889,
+                  "id": 3772875,
                   "participants": [
                     {
                       "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
                       }
                     }
                   ]
@@ -3086,41 +2414,41 @@
               },
               {
                 "entrant": {
-                  "id": 16375981,
+                  "id": 4035506,
                   "participants": [
                     {
                       "player": {
-                        "id": 2342019,
-                        "gamerTag": "Drizzt"
+                        "id": 1162074,
+                        "gamerTag": "friedricehewo"
                       }
                     }
                   ]
                 }
               }
             ],
-            "id": 73655720,
-            "winnerId": 16375981,
+            "id": 24719383,
+            "winnerId": 3772875,
             "event": {
               "videogame": {
-                "id": 43868
+                "id": 3200
               },
               "tournament": {
-                "name": "Zenith Active Frames #31"
+                "name": "Aztec Winter Games 2019"
               }
             },
-            "fullRoundText": "Losers Round 3",
-            "displayScore": "JumboTurbo 1 - Drizzt 2"
+            "fullRoundText": "Grand Final",
+            "displayScore": "FBG | SD_Kato 3 - friedricehewo 0"
           },
           {
             "slots": [
               {
                 "entrant": {
-                  "id": 16376889,
+                  "id": 4162610,
                   "participants": [
                     {
                       "player": {
-                        "id": 270350,
-                        "gamerTag": "JumboTurbo"
+                        "id": 418654,
+                        "gamerTag": "Exodus"
                       }
                     }
                   ]
@@ -3128,30 +2456,702 @@
               },
               {
                 "entrant": {
-                  "id": 16372027,
+                  "id": 3772874,
                   "participants": [
                     {
                       "player": {
-                        "id": 6333,
-                        "gamerTag": "tropics"
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
                       }
                     }
                   ]
                 }
               }
             ],
-            "id": 73655660,
-            "winnerId": 16372027,
+            "id": 24708065,
+            "winnerId": 4162610,
             "event": {
               "videogame": {
-                "id": 43868
+                "id": 1386
               },
               "tournament": {
-                "name": "Zenith Active Frames #31"
+                "name": "Aztec Winter Games 2019"
+              }
+            },
+            "fullRoundText": "Losers Round 4",
+            "displayScore": "Exodus 2 - FBG | SD_Kato 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 3772874,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 4162167,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1299004,
+                        "gamerTag": "always"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 24708045,
+            "winnerId": 3772874,
+            "event": {
+              "videogame": {
+                "id": 1386
+              },
+              "tournament": {
+                "name": "Aztec Winter Games 2019"
+              }
+            },
+            "fullRoundText": "Losers Round 3",
+            "displayScore": "FBG | SD_Kato 2 - always 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 4126556,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 39606,
+                        "gamerTag": "M.M.Leo"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 3772874,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 24707565,
+            "winnerId": 4126556,
+            "event": {
+              "videogame": {
+                "id": 1386
+              },
+              "tournament": {
+                "name": "Aztec Winter Games 2019"
+              }
+            },
+            "fullRoundText": "Winners Round 3",
+            "displayScore": "M.M.Leo W - FBG | SD_Kato L"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 4035506,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1162074,
+                        "gamerTag": "friedricehewo"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 3772875,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 24719382,
+            "winnerId": 3772875,
+            "event": {
+              "videogame": {
+                "id": 3200
+              },
+              "tournament": {
+                "name": "Aztec Winter Games 2019"
+              }
+            },
+            "fullRoundText": "Winners Final",
+            "displayScore": "friedricehewo 1 - FBG | SD_Kato 3"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 3772875,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 4060516,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 349432,
+                        "gamerTag": "Melty"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 24719381,
+            "winnerId": 3772875,
+            "event": {
+              "videogame": {
+                "id": 3200
+              },
+              "tournament": {
+                "name": "Aztec Winter Games 2019"
+              }
+            },
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "FBG | SD_Kato 3 - FBG | Melty 1"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 3772875,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 3726085,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1412686,
+                        "gamerTag": "Panda"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 24719378,
+            "winnerId": 3772875,
+            "event": {
+              "videogame": {
+                "id": 3200
+              },
+              "tournament": {
+                "name": "Aztec Winter Games 2019"
               }
             },
             "fullRoundText": "Winners Quarter-Final",
-            "displayScore": "JumboTurbo 0 - tropics 2"
+            "displayScore": "DQ"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 3772874,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 3957833,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1483697,
+                        "gamerTag": "beingbeast247"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 24707526,
+            "winnerId": 3772874,
+            "event": {
+              "videogame": {
+                "id": 1386
+              },
+              "tournament": {
+                "name": "Aztec Winter Games 2019"
+              }
+            },
+            "fullRoundText": "Winners Round 2",
+            "displayScore": "FBG | SD_Kato 2 - beingbeast247 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 3397445,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1124598,
+                        "gamerTag": "Taijutsu only"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 3397436,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 21619567,
+            "winnerId": 3397445,
+            "event": {
+              "videogame": {
+                "id": 3200
+              },
+              "tournament": {
+                "name": "Critical SynC Weekly #12"
+              }
+            },
+            "fullRoundText": "Losers Final",
+            "displayScore": "Taijutsu only 3 - FBG | SD_Kato 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 3400201,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1312992,
+                        "gamerTag": "PROSTATE_WIGGLER"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 3397436,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 21619566,
+            "winnerId": 3397436,
+            "event": {
+              "videogame": {
+                "id": 3200
+              },
+              "tournament": {
+                "name": "Critical SynC Weekly #12"
+              }
+            },
+            "fullRoundText": "Losers Semi-Final",
+            "displayScore": "PROSTATE_WIGGLER 0 - FBG | SD_Kato 3"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 3397436,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 3398791,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1240199,
+                        "gamerTag": "oPuffball"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 21619565,
+            "winnerId": 3397436,
+            "event": {
+              "videogame": {
+                "id": 3200
+              },
+              "tournament": {
+                "name": "Critical SynC Weekly #12"
+              }
+            },
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "FBG | SD_Kato 3 - oPuffball 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 3397436,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 3397445,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1124598,
+                        "gamerTag": "Taijutsu only"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 21619534,
+            "winnerId": 3397445,
+            "event": {
+              "videogame": {
+                "id": 3200
+              },
+              "tournament": {
+                "name": "Critical SynC Weekly #12"
+              }
+            },
+            "fullRoundText": "Winners Semi-Final",
+            "displayScore": "FBG | SD_Kato 2 - Taijutsu only 3"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 3397439,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 349432,
+                        "gamerTag": "Melty"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 3397437,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 21619588,
+            "winnerId": 3397439,
+            "event": {
+              "videogame": {
+                "id": 904
+              },
+              "tournament": {
+                "name": "Critical SynC Weekly #12"
+              }
+            },
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "FBG | Melty 2 - FBG | SD_Kato 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 3399823,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1358933,
+                        "gamerTag": "Shinku"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 3397436,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 21619531,
+            "winnerId": 3397436,
+            "event": {
+              "videogame": {
+                "id": 3200
+              },
+              "tournament": {
+                "name": "Critical SynC Weekly #12"
+              }
+            },
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "C88 | Shinku 0 - FBG | SD_Kato 3"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 3397436,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 3400189,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 493580,
+                        "gamerTag": "GuyGuyMightyGuy"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 21619526,
+            "winnerId": 3397436,
+            "event": {
+              "videogame": {
+                "id": 3200
+              },
+              "tournament": {
+                "name": "Critical SynC Weekly #12"
+              }
+            },
+            "fullRoundText": "Winners Round 1",
+            "displayScore": "FBG | SD_Kato 3 - GuyGuyMightyGuy 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 3397437,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 3400310,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1358933,
+                        "gamerTag": "Shinku"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 21619570,
+            "winnerId": 3400310,
+            "event": {
+              "videogame": {
+                "id": 904
+              },
+              "tournament": {
+                "name": "Critical SynC Weekly #12"
+              }
+            },
+            "fullRoundText": "Winners Quarter-Final",
+            "displayScore": "FBG | SD_Kato 0 - C88 | Shinku 2"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 3135852,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 254873,
+                        "gamerTag": "Lord Zappa"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 3136252,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 20591283,
+            "winnerId": 3135852,
+            "event": {
+              "videogame": {
+                "id": 3200
+              },
+              "tournament": {
+                "name": "Critical SynC Weekly #5"
+              }
+            },
+            "fullRoundText": "Losers Semi-Final",
+            "displayScore": "Lord Zappa 3 - FBG | SD_Kato 0"
+          },
+          {
+            "slots": [
+              {
+                "entrant": {
+                  "id": 3142832,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1198983,
+                        "gamerTag": "JSF"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "entrant": {
+                  "id": 3136252,
+                  "participants": [
+                    {
+                      "player": {
+                        "id": 1110227,
+                        "gamerTag": "SD_Kato"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 20591282,
+            "winnerId": 3136252,
+            "event": {
+              "videogame": {
+                "id": 3200
+              },
+              "tournament": {
+                "name": "Critical SynC Weekly #5"
+              }
+            },
+            "fullRoundText": "Losers Quarter-Final",
+            "displayScore": "JSF 1 - FBG | SD_Kato 3"
           }
         ]
       }
